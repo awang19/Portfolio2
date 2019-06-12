@@ -1,0 +1,79 @@
+
+
+h1 {
+
+	text-align: center;
+	font-family: barteldes-small, serif;
+}
+
+h3 {
+	text-align: center;
+
+}
+
+h5 {
+	text-align: center;
+	font-family: gibbs, sans-serif;
+	line-height: 150%;
+
+}
+
+
+body {
+
+
+}
+
+p {
+
+
+}
+
+div {
+
+	margin: auto;
+}
+
+
+.quote {
+	height: 200px;
+	width: 600px;
+	text-align:center;
+	font-family: gibbs, sans-serif;
+	line-height: 150%;
+
+
+}
+
+#designs { 
+  /* The image used */
+  background-image: url("https://github.com/awang19/Portfolio/blob/master/Design.jpg?raw=true");
+
+  /* Set a specific height */
+  height: 700px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed; /* this creates the actual scrolling EFFECT */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 90%;
+
+  }
+
+
+
+#sketches { 
+  /* The image used */
+  background-image: url("https://raw.githubusercontent.com/awang19/Portfolio/master/Portfolio.jpg");
+
+  /* Set a specific height */
+  height: 700px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed; /* this creates the actual scrolling EFFECT */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 90%;
+
+
+  }
